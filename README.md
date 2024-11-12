@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on RemoteSensing.
 - 👯 I’m looking to collaborate on drone mapping.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with 3D Tiles.
 - 📫 How to reach me: China *Guilin University of Technology* CGG 02502
 
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white) ![Shell_script](https://img.shields.io/badge/Shell_script-121011.svg?logo=gnu-bash&logoColor=white) 
