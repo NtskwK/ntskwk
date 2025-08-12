@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on RemoteSensing.
 - 👯 I’m looking to collaborate on drone mapping.
 - 🤔 I’m looking for help with CesiumJS.
-- 📫 How to reach me: *Guilin University of Technology* CGG 02502
+- 📫 How to reach me: *Guilin University of Technology* - CGG 02502
 
 I provide Chinese translations for [QGroundControl](https://qgroundcontrol.com/) and [WebODM](https://opendronemap.org/webodm/).
 
