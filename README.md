@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Natsuu.
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=你好，世界！)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,%20world!)
 
 [![wakatime](https://wakatime.com/badge/user/0d828a63-5780-433f-b906-4120cb07fc2e.svg)](https://wakatime.com/@0d828a63-5780-433f-b906-4120cb07fc2e) ![Arcgis](https://img.shields.io/badge/arcgis-white.svg?logo=arcgis)
 
